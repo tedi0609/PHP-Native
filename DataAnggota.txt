@@ -1,0 +1,1 @@
+[{"id_anggota":1,"nik":"4","nama_anggota":"4","jenis_kelamin":"","alamat":"","waktu":"2022-03-31 06:10:47"},{"id_anggota":2,"nik":"8","nama_anggota":"6","jenis_kelamin":"","alamat":"","waktu":"2022-03-31 06:11:06"},{"id_anggota":3,"nik":"5","nama_anggota":"4","jenis_kelamin":"","alamat":"","waktu":"2022-03-31 10:16:03"}]
